@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# Sample Governor
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic Hardhat use case for building a complete governance system. It comes with contracts, tests, and scripts that allow the developer to test different governance implementations.
 
-Try running some of the following tasks:
+Familiarize yourself by running some of the following tasks:
 
 ```shell
 npx hardhat help
@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+*Pay attention to the console logs! - They make things much easier :)
